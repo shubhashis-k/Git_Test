@@ -1,1 +1,3 @@
 this is file 3
+
+changed file 3 from a branch
